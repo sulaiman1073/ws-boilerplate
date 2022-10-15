@@ -1,22 +1,22 @@
-# popitalk-server-ws: Websocket
+# ws-boilerplate: Websocket
 
 ## Info
-`@popitalk/popitalk-server-ws` is a Websocket server for interacting with: 
+`@sulaiman1073/ws-boilerplate` is a Websocket server for interacting with: 
 
-* [`@popitalk/popitalk-client`](https://github.com/Popitalk/popitalk-client)
-* [`@popitalk/popitalk-server-api`](https://github.com/Popitalk/popitalk-server-api)
+* [`@sulaiman1073/client-boilerplate`](https://github.com/sulaiman1073/client-boilerplate)
+* [`@sulaiman1073/api-boilerplate`](https://github.com/sulaiman1073/api-boilerplate)
 
 You can watch a demo [here](https://placeholder.youtube.com).
 
 ## Codebase
-The codebase for `popitalk-server-ws` provides features such as heartbeats, automatic reconnection handling and Pub/Sub support.
+The codebase for `ws-boilerplate` provides features such as heartbeats, automatic reconnection handling and Pub/Sub support.
 
 ### First time setup
 
 To run the repository locally:
 
 ```
-git clone https://github.com/Popitalk/popitalk-server-ws
+git clone https://github.com/sulaiman1073/ws-boilerplate
 npm install
 npm run devserver
 ```
@@ -28,14 +28,14 @@ npm run devserver
  - Ensure that `.env.example` is either copied and renamed to `.env`, or is simply renamed to `.env`.
 
 #### Installation
-*Important* The following services need to be set up alongside `@popitalk/popitalk-server-ws` for the site to run on your local machine:
+*Important* The following services need to be set up alongside `@sulaiman1073/ws-boilerplate` for the site to run on your local machine:
 
-* [`@popitalk/popitalk-client`](https://github.com/Popitalk/popitalk-client)
-* [`@popitalk/popitalk-server-api`](https://github.com/Popitalk/popitalk-server-api)
+* [`@sulaiman1073/client-boilerplate`](https://github.com/sulaiman1073/client-boilerplate)
+* [`@sulaiman1073/api-boilerplate`](https://github.com/sulaiman1073/api-boilerplate)
 
 ### Folder Structure
 ```
-popitalk/popitalk-server-ws/
+sulaiman1073/api-boilerplate/
 ├── broadcaster # Placeholder
 ├── config # placeholder explanation
 ├── Placeholder # placeholder explanation

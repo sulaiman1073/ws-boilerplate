@@ -1,7 +1,7 @@
 {
-  "name": "popitalk-server-ws",
+  "name": "ws-boilerplate",
   "version": "1.0.0",
-  "description": "Popitalk WS Server",
+  "description": "Websockets Boilerplate",
   "main": "index.js",
   "engines": {
     "node": "12.13.0"
